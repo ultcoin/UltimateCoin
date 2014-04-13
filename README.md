@@ -1,10 +1,10 @@
 # UltimateCoin [ULT]
 http://www.ultcoin.org/
 
-![UltimateCoin](http://bit.ly/moonlogo)
+![UltimateCoin](http://i.imgur.com/68STVQC.jpg)
 
 ## What is UltimateCoin?
-UltimateCoin is like Bitcoin, but based on Litecoin, and aimed to take you TO THE ULT!
+UltimateCoin is like Bitcoin, but based on Litecoin. It is aimed to be one of the major coins along side BTC, LTC & Doge!
 http://www.ultcoin.org/
 
 ## IRC
@@ -18,28 +18,7 @@ for more information or see http://opensource.org/licenses/MIT.
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-## Frequently Asked Questions
 
-### How many UltimateCoins exist?
-As of the time of this writing, approximately 27 billion moon have been issued. Sometime in the next five to seven years, there will be roughly 384,400,000,000 coins in existence, which is roughly one coin for every millimeter of distance from the Earth TO THE ULT!
-For the block schedule, see http://en.wikipedia.org/wiki/UltimateCoin#Block_schedule
-
-### UltimateCoin details
-Scrypt Proof of Work
-
-90 second block targets with Kimoto's Gravity Well to discipline the difficulty adjustments per block.
-
-Random block rewards:
-
-Blocks 1-100,000: 0-2,000,000 ULT
-Blocks 100,001-200,000: 0-1,000,000 ULT
-Blocks 200,001-250,000: 0-600,000 ULT
-Blocks 250,001-300,000: 0-350,000 ULT
-Blocks 300,001-350,000: 0-175,000 ULT
-Blocks 350,001-375,000: 0-100,000 ULT
-Blocks 375,001-384,400: 0-50,000 ULT
-
-All future blocks are a fixed 29531 ULT.
 
 ### How to build UltimateCoin
 
