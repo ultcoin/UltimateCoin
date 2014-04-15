@@ -30,7 +30,7 @@ their feature or bug fix is ready.
                          libminiupnpc-dev
 
     cd src/
-    make -f makefile.unix USE_UPNP=1 USE_IPV6=1 USE_QRCODE=1
+    make -f makefile.unix USE_UPNP=- USE_IPV6=1 USE_QRCODE=1
 
 ### Ports
 RPC 21521
