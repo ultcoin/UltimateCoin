@@ -1,18 +1,14 @@
 <RCC>
   <qresource prefix="/icons">
     <file>res/images/UCOIN2014.png</file>
-    <file>res/images/UCOIN2014.jpg</file>
-    <file>res/images/ucoinsymb.bmp</file>
     <file>res/images/adarea1.png</file>
     <file>res/images/adarea2.png</file>
-    <file>res/images/ucoin13.png</file>
     <file alias="bitcoin">res/icons/bitcoin.png</file>
     <file alias="address-book">res/icons/address-book.png</file>
     <file>res/images/UCbalance.png</file>
     <file>res/images/UCimmature.png</file>
     <file>res/images/UCunconfirm.png</file>
     <file alias="quit">res/icons/quit.png</file>
-    <file>res/images/ucoinpiggy.png</file>
     <file alias="send">res/icons/send.png</file>
     <file alias="toolbar">res/icons/toolbar.png</file>
     <file alias="connect_0">res/icons/connect0_16.png</file>
@@ -58,7 +54,6 @@
     <file alias="about">res/images/about.png</file>
     <file alias="splash">res/images/splash.png</file>
     <file alias="splash_testnet">res/images/splash_testnet.png</file>
-    <file>res/images/wallet_bgcoin.png</file>
   </qresource>
   <qresource prefix="/movies">
     <file alias="update_spinner">res/movies/update_spinner.mng</file>
