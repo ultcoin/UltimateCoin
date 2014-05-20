@@ -32,6 +32,16 @@ their feature or bug fix is ready.
     cd src/
     make -f makefile.unix USE_UPNP=- USE_IPV6=1 USE_QRCODE=1
 
+### Quickstart for Linux Users
+
+    cd ~
+    sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb5.1-dev libdb5.1++-dev
+    git clone git://github.com/ultcoin/UltimateCoin.git
+    cd ultcoin
+    qmake USE_UPNP=- USE_IPV6=1 USE_QRCODE=1 && make
+    
+For more information and options, please look at doc/build-unix.md.
+
 ### Ports
 RPC 21521
 P2P 21520
