@@ -1098,7 +1098,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees, uint256 prevHash)
                 nSubsidy = 100000000 * COIN; // 100 million signorage, 900 million seed captial for first bank 
         } else if(nHeight <= 29000) {
                 nSubsidy = 20000 * COIN;
-        } else if(nHeight => 29001) {
+        } else if(nHeight >= 29001) {
                 nSubsidy = 0 * COIN;
         }
 
